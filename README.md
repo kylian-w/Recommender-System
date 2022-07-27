@@ -3,7 +3,7 @@ This is an exploration of how a content based recommender system works. Some gui
 Content-based recommender systems use items or users metadata to create specific recommendations.The methods used here are based on featuralization of items and the profile of a user’s utility. It is best suited to problem with known data on items (e.g., leading actors, year of release, genre for movies) and how the user interact with the recommender system over time, but lacks the user’s personal information. Content-based recommenders is essentially a user-specific learning problem to quantify the user’s utility (likes and dislikes, rating, etc.) based on item features.
 
 
-# About the dataset: 
+## About the dataset: 
 This dataset was compiled by Columbia Business School professors Ray Fisman and Sheena Iyengar for their paper Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment.
 
 Data was gathered from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, participants were asked if they would like to see their date again. They were also asked to rate their date on six attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
